@@ -25,7 +25,7 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀᴏꜰꜰɪᴄɪᴀʟ', true], 
 ] // ⬆ put your number here ⬆
 
 global.mods = [] //Don't replace this,If you want to add someone add any dev
