@@ -25,16 +25,15 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
-] 
+  ['916374437144', '𝙎𝙐𝞖𝞓𝞘𝙇-𝞑𝞗𝙏-𝞛𝘿', true], 
+] // ⬆ put your number here ⬆
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = [] //Don't replace this,If you want to add someone add any dev
+global.prems = []
+global.nomorbot = '916374437144' //Change it to your own
+global.nomorown = '916374437144' //Change it to your own
+global.namebot = '◉━〔 𝙎𝙐𝞖𝞓𝞘𝙇-𝞑𝞗𝙏-𝞛𝘿 〕━◉' //change it to your own
+global.nameown = '🇦🇱⃞⍣⃞ꪶ͢𝐒ᴜ᪵ʜ⃯͛ᴀɪ᪵ʟ≛𝐒ᴇ⃮⃯͛ʀ̸ꪆ ⍣⃞🇦🇱⃞' // change it to your own
 
 //*============= ==============*/
 
@@ -71,15 +70,15 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
-global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
+global.sig = 'https://instagram.com/__s_u_h_a_i_l__s_u_h_a_i_l__?igshid=ZGUzMzM3NWJiOQ==' //Link Instagrammu
+global.sgh = 'https://github.com/itzmesuhail143/X-GEN-MD' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/KOUc2IWSyrKBZS9XP9CoE8'
+global.sdc = 'http://api.whatsapp.com/send?phone=+91(6374437144)&text=-(𝐇ᴇʏ_𝐒ᴜʜᴀɪʟ_𝐈_𝐋ɪᴋᴇ_𝐘ᴏᴜʀ_𝐀ᴜᴅɪᴏs_😩💎.......🧚' //Fill it out using the Discord link, if there is one, just leave it
+global.snh = 'https://is.gd/a0zbOr' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '06374437144' //Nomor Danamu
+global.ppulsa = '06374437144' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
@@ -118,26 +117,26 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '◉─━〔 𝙎𝙐𝞖𝞓𝞘𝙇-𝞑𝞗𝙏-𝞛𝘿 〕━─◉' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ ｓｕｈａｉｌ_ｓｅｒ- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
+global.footerTXT = `🇦🇱⃞⍣⃞ꪶ͢𝐒ᴜ᪵ʜ⃯͛ᴀɪ᪵ʟ≛𝐒ᴇ⃮⃯͛ʀ̸ꪆ ⍣⃞🇦🇱⃞\nowner: +880 1853 262586`
+global.fig = `Follow me on instagram:\n\t\https://instagram.com/__s_u_h_a_i_l__s_u_h_a_i_l__?igshid=ZGUzMzM3NWJiOQ==`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '◉─━〔 𝙎𝙐𝞖𝞓𝞘𝙇-𝞑𝞗𝙏-𝞛𝘿 〕━─◉'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.logo = 'https://i.imgur.com/DKV9CMC.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
-global.thumbbc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
-global.hwaifu = ['https://i.ibb.co/jLnr3K9/20231025-195821.jpg']
+global.thumb = 'https://i.imgur.com/DKV9CMC.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/e9QUEQr.jpeg'
+global.thumbbc = 'https://i.imgur.com/P9pZPf3.jpeg' //For broadcast
+global.giflogo = 'https://i.imgur.com/HXTLoyS.mp4'
+global.thumblvlup = 'https://i.imgur.com/JOgt22i.jpeg'
+global.hwaifu = ['https://i.imgur.com/IDGUawa.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -153,7 +152,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '+91 6374 437 144 
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -193,10 +192,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_sla.sher_'
-global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.stickpack = ' ｓｕｈａｉｌ_ｓｅｒ'
+global.stickauth = `🫶🏻🕊`
+global.packname = ' ｓｕｈａｉｌ_ｓｅｒ'
+global.packname2 = '🇦🇱⃞⍣⃞ꪶ͢𝐒ᴜ᪵ʜ⃯͛ᴀɪ᪵ʟ≛𝐒ᴇ⃮⃯͛ʀ̸ꪆ ⍣⃞🇦🇱⃞'
 
 global.multiplier = 38 // The higher, The harder levelup
 
@@ -255,4 +254,4 @@ watchFile(file, () => {
 //------ FUNCTION
 function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
-}
+  }
