@@ -33,7 +33,7 @@ global.prems = []
 global.nomorbot = '916374437144' //Change it to your own
 global.nomorown = '916374437144' //Change it to your own
 global.namebot = '◉━〔 𝙎𝙐𝞖𝞓𝞘𝙇-𝞑𝞗𝙏-𝞛𝘿 〕━◉' //change it to your own
-global.nameown = '🇦🇱⃞⍣⃞ꪶ͢𝐒ᴜ᪵ʜ⃯͛ᴀɪ᪵ʟ≛𝐒ᴇ⃮⃯͛ʀ̸ꪆ ⍣⃞🇦🇱⃞' // change it to your own
+global.nameown = '🇦🇱⃞⍣⃞ꪶ͢𝐒ᴜ᪵ʜ⃯͛ᴀɪ᪵ʟ≛𝐒ᴇ⃮⃯͛ʀ̸ꪆ.⍣⃞🇦🇱⃞' // change it to your own
 
 //*============= ==============*/
 
